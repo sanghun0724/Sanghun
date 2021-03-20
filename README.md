@@ -19,3 +19,4 @@ ios공부를 하고있는 ios dev 지망생입니다.
 - XCode
 - Android-Studio
 - PHP & MySQL
+- R & Python
