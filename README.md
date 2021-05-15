@@ -15,8 +15,9 @@ ios공부를 하고있는 ios dev 지망생입니다.
 
 ## Stack
 - Swift
-- JAVA
 - XCode
+- ------
+- JAVA
 - Android-Studio
 - PHP & MySQL
 - R & Python
