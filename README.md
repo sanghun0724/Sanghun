@@ -22,3 +22,5 @@ ios공부를 하고있는 ios dev 지망생입니다.
 - PHP & MySQL
 - R & Python
 - C
+- Zeplin,Adobe XD
+(HelloWorld찍어보면 할줄아는거 맞죠?🙈)
