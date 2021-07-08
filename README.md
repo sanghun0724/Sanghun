@@ -10,7 +10,7 @@
         src="http://img.shields.io/badge/-Tech%20Blog-black?style=flat&logo=medium&link=https://sangheon0724.medium.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-## Sanghun:IOS Developer
+## Sanghun:iOS Developer
 ios공부를 하고있는 ios dev 지망생입니다.
 
 ## Stack
