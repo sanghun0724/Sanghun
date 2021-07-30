@@ -14,7 +14,7 @@
 ios공부를 하고있는 ios dev 지망생입니다.
 
 ## Stack
-- Swift
+- Swift 
 - XCode
 - ------
 - JAVA
@@ -22,6 +22,7 @@ ios공부를 하고있는 ios dev 지망생입니다.
 - PHP & MySQL
 - R & Python
 - C
-- Zeplin,Adobe XD
+- Zeplin,Adobe XD (Design tool)
+- Notion,Slack,Jandi (Team Collaboration Tool)
 
 (HelloWorld찍어보면 할줄아는거 맞죠?🙈)
