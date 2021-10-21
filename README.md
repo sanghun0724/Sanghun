@@ -1,4 +1,4 @@
-# 상헌 Sanghun 
+# 상헌 Sangheon
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sangheon0724@gmail.com)](mailto:sangheon0724@gmail.com)
 <a href="https://instagram.com/sangheon____/">
     <img 
@@ -10,12 +10,14 @@
         src="http://img.shields.io/badge/-Tech%20Blog-black?style=flat&logo=medium&link=https://sangheon0724.medium.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-## Sanghun:iOS Developer
+## Sangheon:iOS Developer
 ios공부를 하고있는 ios dev 지망생입니다.
 
 ## Stack
 - Swift 
 - XCode
+- CoreData
+- RxSwift
 - ------
 - Zeplin,Adobe XD (Design tool)
 - Notion,Slack,Jandi (Team Collaboration Tool)
