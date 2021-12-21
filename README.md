@@ -21,3 +21,4 @@ ios공부를 하고있는 ios dev 지망생입니다.
 - ------
 - Zeplin,Adobe XD (Design tool)
 - Notion,Slack,Jandi (Team Collaboration Tool)
+DFS식 공부를 지향합니다
