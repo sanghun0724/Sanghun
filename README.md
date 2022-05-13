@@ -1,9 +1,5 @@
 # 상헌 Sangheon
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sangheon0724@gmail.com)](mailto:sangheon0724@gmail.com)
-<a href="https://instagram.com/sangheon____/">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-pink?style=dd2a7b&logo=Instagram&link=https://instagram.com/sangheon____/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://sangheon0724.medium.com/">
     <img 
