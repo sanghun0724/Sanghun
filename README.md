@@ -14,7 +14,6 @@
 
 ## Stack
 - Swift 
-- XCode
 - CoreData
 - RxSwift
 - ------
