@@ -12,8 +12,5 @@
 - Swift 
 - CoreData
 - RxSwift
-- ------
-- Zeplin,Adobe XD (Design tool)
-- Notion,Slack,Jandi (Team Collaboration Tool)
 
 DFS식 공부를 지향합니다
