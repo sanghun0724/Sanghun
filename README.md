@@ -7,10 +7,5 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 ## Sangheon:iOS Developer
+DFS식 공부를 지향합니다.
 
-## Stack
-- Swift 
-- CoreData
-- RxSwift
-
-DFS식 공부를 지향합니다
